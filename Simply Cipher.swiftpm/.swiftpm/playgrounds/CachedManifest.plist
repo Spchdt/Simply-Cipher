@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CachedManifest</key>
+	<dict>
+		<key>manifestData</key>
+		<data>
+		eyJkZXBlbmRlbmNpZXMiOltdLCJkaXNwbGF5TmFtZSI6IlNpbXBseSBDaXBo
+		ZXIiLCJwYWNrYWdlS2luZCI6eyJyb290Ijp7fX0sInBsYXRmb3JtcyI6W3si
+		b3B0aW9ucyI6W10sInBsYXRmb3JtTmFtZSI6ImlvcyIsInZlcnNpb24iOiIx
+		Ni4wIn1dLCJwcm9kdWN0cyI6W3sibmFtZSI6IlNpbXBseSBDaXBoZXIiLCJz
+		ZXR0aW5ncyI6W3siZGlzcGxheVZlcnNpb24iOlsiMS4wIl19LHsiYnVuZGxl
+		VmVyc2lvbiI6WyIxIl19LHsiaU9TQXBwSW5mbyI6W3siYWNjZW50Q29sb3Ii
+		OnsicHJlc2V0Q29sb3IiOnsicHJlc2V0Q29sb3IiOnsicmF3VmFsdWUiOiJi
+		bHVlIn19fSwiYXBwSWNvbiI6eyJwbGFjZWhvbGRlciI6eyJpY29uIjp7InJh
+		d1ZhbHVlIjoicGVuY2lsIn19fSwiY2FwYWJpbGl0aWVzIjpbeyJwdXJwb3Nl
+		IjoiY2FtZXJhIiwicHVycG9zZVN0cmluZyI6IkNhbWVyYSByZXF1aXJlZCB0
+		byB1c2Ugc2Nhbm5lciBtb2RlIn1dLCJzdXBwb3J0ZWREZXZpY2VGYW1pbGll
+		cyI6WyJwYWQiLCJwaG9uZSJdLCJzdXBwb3J0ZWRJbnRlcmZhY2VPcmllbnRh
+		dGlvbnMiOlt7InBvcnRyYWl0Ijp7fX0seyJsYW5kc2NhcGVSaWdodCI6e319
+		LHsibGFuZHNjYXBlTGVmdCI6e319LHsicG9ydHJhaXRVcHNpZGVEb3duIjp7
+		ImNvbmRpdGlvbiI6eyJkZXZpY2VGYW1pbGllcyI6WyJwYWQiXX19fV19XX1d
+		LCJ0YXJnZXRzIjpbIkFwcE1vZHVsZSJdLCJ0eXBlIjp7ImV4ZWN1dGFibGUi
+		Om51bGx9fV0sInRhcmdldE1hcCI6eyJBcHBNb2R1bGUiOnsiZGVwZW5kZW5j
+		aWVzIjpbXSwiZXhjbHVkZSI6W10sIm5hbWUiOiJBcHBNb2R1bGUiLCJwYXRo
+		IjoiLiIsInJlc291cmNlcyI6W10sInNldHRpbmdzIjpbeyJraW5kIjp7ImVu
+		YWJsZVVwY29taW5nRmVhdHVyZSI6eyJfMCI6IkJhcmVTbGFzaFJlZ2V4TGl0
+		ZXJhbHMifX0sInRvb2wiOiJzd2lmdCJ9XSwidHlwZSI6ImV4ZWN1dGFibGUi
+		fX0sInRhcmdldHMiOlt7ImRlcGVuZGVuY2llcyI6W10sImV4Y2x1ZGUiOltd
+		LCJuYW1lIjoiQXBwTW9kdWxlIiwicGF0aCI6Ii4iLCJyZXNvdXJjZXMiOltd
+		LCJzZXR0aW5ncyI6W3sia2luZCI6eyJlbmFibGVVcGNvbWluZ0ZlYXR1cmUi
+		OnsiXzAiOiJCYXJlU2xhc2hSZWdleExpdGVyYWxzIn19LCJ0b29sIjoic3dp
+		ZnQifV0sInR5cGUiOiJleGVjdXRhYmxlIn1dLCJ0b29sc1ZlcnNpb24iOnsi
+		X3ZlcnNpb24iOiI1LjguMCJ9fQ==
+		</data>
+		<key>manifestHash</key>
+		<data>
+		0+ieKxlpswQzIcp54mCjSV59GdQjappiE4Hx/zLTTg0=
+		</data>
+		<key>schemaVersion</key>
+		<integer>4</integer>
+		<key>swiftPMVersionString</key>
+		<string>5.8.0</string>
+	</dict>
+</dict>
+</plist>
